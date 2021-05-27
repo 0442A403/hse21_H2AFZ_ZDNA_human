@@ -1,5 +1,7 @@
 # hse21_H3K4me3_ZDNA_human
 
+UCSC GenomeBrowser session:  http://genome.ucsc.edu/s/antonov/hse21_H3K4me3_ZDNA_human
+
 ## Location of ChIP-seq peaks
 ![alt text](https://github.com/vanya-antonov/hse21_H3K4me3_ZDNA_human/raw/main/images/chip_seeker.H3K4me3_A549.ENCFF573MUH.hg19.filtered.plotAnnoPie.png)
 ![alt text](https://github.com/vanya-antonov/hse21_H3K4me3_ZDNA_human/raw/main/images/chip_seeker.H3K4me3_A549.ENCFF832EOL.hg19.filtered.plotAnnoPie.png)
