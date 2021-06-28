@@ -15,12 +15,12 @@ G4_seq_Li_K	H3K4me3
 	H3K27ac
 ZDNA_DeepZ	H3K27me3
 ZDNA_mouse_1	H3K4me1
-	H3K9ac
+ZDNA_DeepZ	H3K9ac
 G4_seq_Li_K	H3K4me3
 G4_seq_Li_K	H3K4me3
 ZDNA_DeepZ	H3K27me3
 G4_seq_Li_K	H3K36me3
-	H3K27me3
+G4_seq_Li_K	H3K27me3
 	H3K9me3
 	H3K4me3
 	H3K36me3
@@ -30,11 +30,11 @@ ZDNA_mouse_1	H3K79me1
 	H3K4me3
 G4_seq_Li_K	H3K4me3
 ZDNA_ZHunt	H3K4me1
-	H3K27me3
-	H3K4me2
+ZDNA_DeepZ	H3K27me3
+G4_ChIP	H3K4me1
 G4_ChIP	H3K9me3
-	H3K4me1
-ZDNA_DeepZ	H3K9me3
+G4_ChIP	H3K4me1
+G4_ChIP	H3K9me3
 ZDNA_mouse_1	H3K4me3
 ZDNA_mouse_1	H3K4me3
 G4_seq_Li_KPDS	H3K4me3
@@ -42,13 +42,13 @@ G4_seq_Li_KPDS	H3K4me3
 ZDNA_DeepZ	H3K9ac
 	H3K4me3
 G4_seq_Li_K	H3K4me1
-	H3K27me3
-	H3K4me3
-	H3K4me3
-	H3K9me3
+ZDNA_DeepZ	H3K27me3
+G4_seq_Li_KPDS	H3K4me3
 	H3K4me3
 	H3K9me3
-	H3K27me3
+	H3K4me3
+ZDNA_DeepZ	H3K9me3
+ZDNA_mouse_1	H3K4me1
 	H3K36me3
 	H3K27ac
 	H3K4me1
@@ -60,11 +60,11 @@ ZDNA_DeepZ	H3K36me3
 ZDNA_mouse_2	H3K27me3
 ZDNA_mouse_2	H3K4me3
 	H3K27ac
-	
-	
-	
-	
-	
+	H3K36me3
+ZDNA_DeepZ	H3K4me1
+	H3K9ac
+	H3K9ac
+	H3K4me1
 	
 	
 	
